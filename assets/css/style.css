@@ -8,11 +8,22 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    background: linear-gradient(120deg, #01000a, #0874c3);
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
+header > h1 {
+    margin-bottom: 150px;
+    text-align: center;
+    font-size: 3em;
+    font-family: inherit;
+    color: beige;
+    letter-spacing: 3px;
+    
+}
+
 
 .relogio {
     display: flex;
